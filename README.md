@@ -3,9 +3,9 @@
 
 Welcome to my Github page! I'm Heitor de Souza a Full Stack Developer.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=social&logo=linkedin&link=https://www.linkedin.com/in/heitor-de-souza-434294105/)](https://www.linkedin.com/in/heitor-de-souza-434294105/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=social&logo=github&link=https://github.com/heitor92)](https://github.com/heitor92) 
-[![Gmail](https://img.shields.io/badge/-Gmail-black?style=social&logo=gmail&link=mailto:heisou06@gmail.com)](mailto:heisou06@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/-Heitor%20de%20Souza-black?style=social&logo=linkedin&label=LinkedIn&link=https://www.linkedin.com/in/heitor-de-souza-434294105/)](https://www.linkedin.com/in/heitor-de-souza-434294105/)
+[![GitHub](https://img.shields.io/badge/-heitor92-black?style=social&logo=github&label=GitHub&link=https://github.com/heitor92)](https://github.com/heitor92) 
+[![Gmail](https://img.shields.io/badge/-heisou06%40gmail.com-black?style=social&logo=gmail&label=Gmail&link=mailto:heisou06@gmail.com)](mailto:heisou06@gmail.com) 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif" />
 
