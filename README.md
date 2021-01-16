@@ -9,6 +9,8 @@ Welcome to my Github page! I'm Heitor de Souza a Full Stack Developer.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif" />
 
+<br>
+
 ### 👨‍💻 Languages and Tools
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/heitor92)](https://github.com/heitor92) 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/heitor92)](https://github.com/heitor92)
