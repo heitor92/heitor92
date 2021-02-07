@@ -40,7 +40,7 @@ Welcome to my Github page! I'm Heitor de Souza a Full Stack Developer from Brazi
 
 
 
-**Credits image** 
+**image credits** 
 * [giphy.com](https://giphy.com/)
 <!--
 **heitor92/heitor92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
