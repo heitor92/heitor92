@@ -7,7 +7,7 @@ Welcome to my Github page! I'm Heitor de Souza a Full Stack Developer from Brazi
 [![GitHub](https://img.shields.io/badge/-heitor92-black?style=social&logo=github&label=GitHub&link=https://github.com/heitor92)](https://github.com/heitor92) 
 [![Gmail](https://img.shields.io/badge/-heisou06%40gmail.com-black?style=social&logo=gmail&label=Gmail&link=mailto:heisou06@gmail.com)](mailto:heisou06@gmail.com)
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif" />
+<img alt="GIF" src="https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif" />
 
 ![heitor92 github stats](https://github-readme-stats.vercel.app/api?username=heitor92&count_private=true&show_icons=true&theme=dark)
 
